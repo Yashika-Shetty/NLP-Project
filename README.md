@@ -42,7 +42,7 @@ pip install tensorflow
 
 ## Usage
 
-This project uses Lstm and n-gram model for text prediction in English and Hindi Language! You need to replace enghin.txt with the txt file you want to take as input.
+This project uses Lstm and n-gram model for text prediction in English and Hindi Language! You need to replace ```enghin.txt``` with the txt file you want to take as input.
 
 
 ## Run tests
@@ -50,7 +50,7 @@ This project uses Lstm and n-gram model for text prediction in English and Hindi
 The predefined value of Epoch is set to 50 , you can change it as per convenience/ requirement  .
 
 ## Explore it
-Explore it and twist it to your own use case, in case of any question feel free to reach me out directly yashikashetty15(at)gmail.com
+Explore it and twist it to your own use case, in case of any question feel free to reach me out directly ```yashikashetty15@gmail.com```
 
 ## Issues
 Incase you have any difficulties or issues while trying to run the script you can raise it on the issues.
